@@ -1,6 +1,5 @@
 The complete documentation of VSpal is under construction at [its home page](https://github.com/accarniel/SpatialPlateauAlgebra).
 
-<<<<<<< HEAD
 To cite the Vague Spatial Data Library (VSpal), please mention its conceptual paper:
 
 * [Carniel, A. C.; Schneider, M. Spatial Plateau Algebra: An Executable Type System for Fuzzy Spatial Data Types. In Proceedings of the 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2018), p. 1-8, 2018.](https://ieeexplore.ieee.org/document/8491565)
@@ -30,6 +29,3 @@ Spatial fuzziness captures the property of many spatial objects in reality that 
 Currently, VSpal provides a first version of the implementation of the Vague Spatial Algebra.
 
 In addition, it provides a method for creating fuzzy region objects as plateau region objects from real data sets. This method is implemented in R and available [here](https://github.com/accarniel/SpatialPlateauAlgebra/building_fuzzy_regions/building_plateau_regions).
-=======
-In addition, we provide algorithms related to SPA. The first one refers to provide a systematic and generic approach to deal with the general issue of collecting and constructing fuzzy region objects as plateau region objects from real data sets and leveraging domain expert knowledge. Currently, we are working on making this implementation, its documentation, and application examples publicly available.
->>>>>>> 2b1d10af7135e9c105192f1b4f1ef02516eb6234
