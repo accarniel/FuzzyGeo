@@ -1,4 +1,4 @@
-The complete documentation of VSpal is under construction at [its home page](https://github.com/accarniel/SpatialPlateauAlgebra).
+The complete documentation of VSpal is under construction at [its home page](https://accarniel.github.io/SpatialPlateauAlgebra/).
 
 To cite the Vague Spatial Data Library (VSpal), please mention its conceptual paper:
 
