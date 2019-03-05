@@ -6,7 +6,7 @@ To cite the Vague Spatial Data Library (VSpal), please mention its conceptual pa
 
 ## NEWS
 
-* [a library in R for creating fuzzy region objects as plateau region objects from real data sets](https://github.com/accarniel/SpatialPlateauAlgebra/building_fuzzy_regions/building_plateau_regions).
+* [a library in R for creating fuzzy region objects as plateau region objects from real data sets](https://accarniel.github.io/SpatialPlateauAlgebra/building_fuzzy_regions/building_plateau_regions/).
 
 ## Overview
 
